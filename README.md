@@ -1,3 +1,7 @@
+Co-founder & CTO of [StudyStash](https://studystash.com/), acquired by Kortext in 2026. Built products across education, fintech and govtech.
+
+[Website](https://jgraham.dev/) · [LinkedIn](https://www.linkedin.com/in/jonathangrah/)
+
 [![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-grah&count_private=true&show_icons=true&hide=contribs,stars&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
